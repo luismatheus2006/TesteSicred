@@ -257,7 +257,7 @@ Deveria retornar um erro ao tentar criar um produto com dados ausentes.
 Deveria retornar um erro ao tentar criar um produto com dados inválidos.
 
 
-Para mais informações, entre em contato com William de Souza Pereira
-E-mail : williandesousa30@gmail.com
-Telefone WhatsApp: +55 (88) 99814-1112
+Para mais informações, entre em contato com Luis Matheus Vasconcelos de Farias
+E-mail : luizmatheusvascon@gmail.com
+Telefone WhatsApp: +55 (88) 99372-8352
 
